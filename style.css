@@ -35,7 +35,7 @@ h1{
 .sidebar{
 
     width: 60%;
-    height: 100px;
+
 
     
 }
@@ -44,6 +44,9 @@ h1{
 
     float:left;
     margin-left:4%;
+    height: 100px;
+    margin-top:7%;
+    
 
    
 }
