@@ -29,6 +29,11 @@ h1{
 .name{
 
     text-align: center;
+    
+}
+a:hover{
+
+    color: grey;
 }
 
 
@@ -49,4 +54,24 @@ h1{
     
 
    
+}
+.linkedin{
+
+    margin-left: 60%;
+    padding: 10px;
+}
+.github{
+
+    margin-left: 35%;
+    padding: 10px;
+}
+.linkedin,.github{
+    padding-top: 2%;
+    padding-left:2%;
+    opacity: 0.5;
+    
+}
+.linkedin:hover,.github:hover{
+
+    opacity: 1;
 }
