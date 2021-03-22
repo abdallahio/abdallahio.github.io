@@ -63,12 +63,21 @@ ul.icons{
     display: flex;
     padding-inline-start: 60px;    
 }
-.column{
-
-    float: left;
-    width: 50%;
-    padding: 80px 10px 10px 10px;
+.row{
+border: 3px;
+padding: 20px;
 }
+.column{
+	float:left;
+    width: 50%;
+ padding: 0% 10% 0% 10%;
+}
+.column2{
+	float:center;
+    width:50%;
+ padding: 3% 0% 10% 30%;
+}
+
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
     padding: 16px;
@@ -78,7 +87,7 @@ ul.icons{
     font-weight: 100;
   }
   .div1{
-
+	
     background-color: whitesmoke;
   }
 
@@ -91,4 +100,12 @@ a.links:hover{
 
     color:goldenrod;
 
+}
+
+footer{
+position:fixed;
+background:#fff;
+
+
+  
 }
