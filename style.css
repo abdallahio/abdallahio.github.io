@@ -50,6 +50,7 @@ h2{
     text-align: center;
 }
 
+
 /* Timeline styles */
 .timeline {
     position: relative;
@@ -126,6 +127,7 @@ h2{
 }
 .resume-text {
     font-size: small;
+    text-align: center;
 }
 
 .projects-container {
@@ -200,7 +202,7 @@ h2{
 /* Styles for specific buttons */
 .contact-button.email {
     background-color: #2ecc71; /* Green color for email button */
-    
+
 }
 
 .contact-button.github {
